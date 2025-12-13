@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java Software Developer who enjoys building CRUD desktop apps<br>using Graphical interfaces (Swing) that connect to MySQL databases.<br>I enjoy working with databases, building secure Java apps using clean, scalable & maintainable code<br><br>I am currently working on Student Registration system
+I am a Java Software Developer who enjoys building CRUD desktop apps<br>using Graphical interfaces (Swing) that connect to MySQL databases.<br>I enjoy working with databases, building secure Java apps using clean, scalable & maintainable code<br><br>I am currently working on Student Registration system<br>FUTURE TECHNOLOGIES:<br>-JavaFX & SpringBoot<br>
 
 
 ## 🌐 Socials:
